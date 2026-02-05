@@ -20,7 +20,7 @@ A lightweight, high-performance Document Intelligence tool built with **Streamli
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/ai-summarizer.git](https://github.com/your-username/ai-summarizer.git)
+   git clone [https://github.com/NickDgit/ai-summarizer.git](https://github.com/NickDgit/ai-summarizer.git)
    cd ai-summarizer
    ```
 2.  **Install dependencies:**
@@ -32,7 +32,7 @@ Create a .env file in the root directory and add your Groq API Key:
    ```bash
    GROQ_API_KEY=your_key_here
    ```
-4**Run the Application:**
+4. **Run the Application:**
    ```bash
    streamlit run main.py
    ```   
